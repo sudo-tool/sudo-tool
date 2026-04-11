@@ -1,6 +1,7 @@
 # 💫 About Me:
-Développeur depuis a ans et demi. ?
+Développeur depuis 1 ans et demi.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Dev+by+hikamu)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.selfbot.sbs) 
