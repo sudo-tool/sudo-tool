@@ -1,7 +1,6 @@
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-tool&" alt="sudo-tool" /></p>
 <h1 align="center">Hi 👋, I'm Sudo</h1>
 <h3 align="center">A passionate développer fromage France</h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Make+by+sudo;Free+host+--%3E+anda-cloud.com;Best+open+source+d%C3%A9velopper;paypal.me%2Flloui702;Ltc%3A+LXxZH5z8HjmBxxdHNqfJuSHnqmbgTskrm5;BTC%3A+bc1qalqwr47ue4fx9xulfgf660sh9448ym8k9c76yq;Eth%3A+0x89A8E1A95Ccff366c15ED2c8DE7443db2Ce3d48B;Please+send+me+money)](https://git.io/typing-svg)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-tool&label=Profile%20views&color=0e75b6&style=flat" alt="sudo-tool" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudo-tool" alt="sudo-tool" /></a> </p>
